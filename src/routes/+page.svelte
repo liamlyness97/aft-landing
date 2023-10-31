@@ -14,13 +14,13 @@
 
 <div class="relative w-full h-screen">
 	<div class="absolute w-full h-full top-0 flex justify-center">
-		<img id="logo" class="w-1/2 object-contain fixed top-1/3" src={logo} alt="" />
+		<img id="logo" class="w-full lg:w-1/2 object-contain fixed top-1/3" src={logo} alt="" />
 	</div>
 </div>
 
 <div class="relative w-full h-screen">
 	<div class="absolute w-full h-full top-0 flex justify-center">
-		<img id="date" class="w-1/2 object-contain fixed top-1/3" src={date} alt="" />
+		<img id="date" class="w-full lg:w-1/2 object-contain fixed top-1/3 px-5" src={date} alt="" />
 	</div>
 </div>
 
